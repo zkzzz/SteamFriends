@@ -26,3 +26,4 @@
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 064789     | [76561199120254335](https://steamcommunity.com/profiles/76561199120254335/) | ✅           | 2021-05-05 08:17:18 |                |          |
 | ![](https://avatars.steamstatic.com/a8565b625e2942aa311bddb7bcaa2265b6de9235.jpg) | Nana       | [76561199021935044](https://steamcommunity.com/profiles/76561199021935044/) | ✅           | 2022-03-14 07:05:10 |                |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 2629387477 | [76561199169109902](https://steamcommunity.com/profiles/76561199169109902/) | ✅           | 2021-06-04 11:09:13 |                |          |
+| ![](https://avatars.steamstatic.com/2b21e44a367e91f156120c17cfc4f52fcf6e9c2b.jpg) | Yana       | [76561199446899117](https://steamcommunity.com/profiles/76561199446899117/) | ✅           | 2025-10-29 18:15:44 |                |          |
