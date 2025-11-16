@@ -17,7 +17,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name       | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
 |:----------------------------------------------------------------------------------|:-----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
-| ![](https://avatars.steamstatic.com/2051ccd29b828418d60ad6235665f52402ecb360.jpg) | 刘憬庐爱玩原神    | [76561199163978933](https://steamcommunity.com/profiles/76561199163978933/) | ✅           | 2025-06-06 08:45:28 |                |          |
+| ![](https://avatars.steamstatic.com/2051ccd29b828418d60ad6235665f52402ecb360.jpg) | Shnock     | [76561199163978933](https://steamcommunity.com/profiles/76561199163978933/) | ✅           | 2025-06-06 08:45:28 |                |          |
 | ![](https://avatars.steamstatic.com/1676e2a230ffb32f043bab56442a393bf79074d2.jpg) | ❤          | [76561198445195503](https://steamcommunity.com/profiles/76561198445195503/) | ✅           | 2022-03-14 06:52:34 |                |          |
 | ![](https://avatars.steamstatic.com/44b65fa70c3df3819aa00d7b9cb13a40ac7cc2dc.jpg) | Y.rn       | [76561198867655675](https://steamcommunity.com/profiles/76561198867655675/) | ✅           | 2021-08-07 15:39:51 |                |          |
 | ![](https://avatars.steamstatic.com/c3d67a9c76088bb51174dea525cca3383b9228a6.jpg) | expr0z     | [76561199102049590](https://steamcommunity.com/profiles/76561199102049590/) | ✅           | 2023-04-22 07:22:22 |                |          |
